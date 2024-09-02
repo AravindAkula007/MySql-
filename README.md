@@ -1,0 +1,2 @@
+# MySql-
+Learnings of MySQL
